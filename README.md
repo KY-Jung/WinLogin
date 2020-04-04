@@ -40,7 +40,7 @@ Windows Login with SmartPhone [web page] [(https://www.gainsys.kr/index.html)].
     -. scan QR code with SmartPhone  
     -. click OK button  
     ![winlogin_success](https://user-images.githubusercontent.com/39116699/78457790-bc7c3100-76e7-11ea-98d8-de20df3fc7d3.png)
-    ![scan](https://user-images.githubusercontent.com/39116699/78457798-caca4d00-76e7-11ea-928e-279b6521efe2.jpg)
+    ![qr_scan](https://user-images.githubusercontent.com/39116699/78457921-bdfa2900-76e8-11ea-97b0-11a5edee8104.png)
     
 6. Request PC login at PC  
     -. click "③ One-Time Login" button at SmartPhone  
