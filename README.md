@@ -6,11 +6,11 @@ Windows Login with SmartPhone [web page] [(https://www.gainsys.kr/index.html)].
 1. PC  
     -. Windows 10 64bit, Windows 8.1 64bit
 2. SmartPhone  
-    -. Galaxy s10e : Android 9
-    -. Galaxy A3(2016) : Android 7.0
+    -. Galaxy s10e : Android 9  
+    -. Galaxy A3(2016) : Android 7.0  
 3. Browser
-    -. Chrome : version 76
-4. iOS-Chrome is not supported
+    -. Chrome : version 76  
+* iOS-Chrome is not supported
 
 
 ## Step
