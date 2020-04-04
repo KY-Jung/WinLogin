@@ -24,22 +24,34 @@ Windows Login with SmartPhone [web page] [(https://www.gainsys.kr/index.html)].
     -. connect to web page [(https://www.gainsys.kr)]  
     -. click button - ① Regist PC (QR)  
     -. wait  
-    ![papapc_intro_new](https://user-images.githubusercontent.com/39116699/78457674-ef71f500-76e6-11ea-88a3-ab0ae1be4e76.jpg)![phone_1_click](https://user-images.githubusercontent.com/39116699/78457736-568fa980-76e7-11ea-9184-60afba102207.png)![scan](https://user-images.githubusercontent.com/39116699/78457678-f4cf3f80-76e6-11ea-8ab7-625f0199d9d7.jpg)
+    ![papapc_intro_new](https://user-images.githubusercontent.com/39116699/78457674-ef71f500-76e6-11ea-88a3-ab0ae1be4e76.jpg)![phone_1_click](https://user-images.githubusercontent.com/39116699/78457736-568fa980-76e7-11ea-9184-60afba102207.png)![scan](https://user-images.githubusercontent.com/39116699/78457754-8048d080-76e7-11ea-8c6b-eec2542e0525.jpg)
 
 3. PC logout or screen lock  
     -. press windows key + l key  
+    ![winlogin_login](https://user-images.githubusercontent.com/39116699/78457766-96ef2780-76e7-11ea-8767-a6aaffd64b50.png)
+    
 4. Validate Windows account  
     -. click ">>> Click to regist <<<" link at lock screen  
     -. input ID and Password  
     -. press enter key  
+    ![winlogin_regist](https://user-images.githubusercontent.com/39116699/78457781-a7070700-76e7-11ea-953e-cc147c551935.png)
+    
 5. Regist PC with QR scan  
     -. scan QR code with SmartPhone  
     -. click OK button  
+    ![winlogin_success](https://user-images.githubusercontent.com/39116699/78457790-bc7c3100-76e7-11ea-98d8-de20df3fc7d3.png)
+    ![scan](https://user-images.githubusercontent.com/39116699/78457798-caca4d00-76e7-11ea-928e-279b6521efe2.jpg)
+    
 6. Request PC login at PC  
     -. click "③ One-Time Login" button at SmartPhone  
+    ![phone_3_click](https://user-images.githubusercontent.com/39116699/78457802-d7e73c00-76e7-11ea-8272-39fcbcb22870.png)
+    
 7. PC login at PC  
     -. click "REQUEST LOGIN" button at lock screen  
+    ![winlogin_login_new](https://user-images.githubusercontent.com/39116699/78457809-e46b9480-76e7-11ea-96f1-bf86f94c7b47.png)
+    
 8. Windows login complete  
+    ![winlogin_end](https://user-images.githubusercontent.com/39116699/78457813-ecc3cf80-76e7-11ea-9842-13f41d0bb7a8.png)
 
 ## this program is made with
 1. instascan : QR web scan
