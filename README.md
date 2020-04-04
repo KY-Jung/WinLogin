@@ -24,9 +24,7 @@ Windows Login with SmartPhone [web page] [(https://www.gainsys.kr/index.html)].
     -. connect to web page [(https://www.gainsys.kr)]  
     -. click button - ① Regist PC (QR)  
     -. wait  
-    ![papapc_intro_new](https://user-images.githubusercontent.com/39116699/78457674-ef71f500-76e6-11ea-88a3-ab0ae1be4e76.jpg)
-    ![phone_1_click](https://user-images.githubusercontent.com/39116699/78457675-f1d44f00-76e6-11ea-95a3-cace47891252.png)
-    ![scan](https://user-images.githubusercontent.com/39116699/78457678-f4cf3f80-76e6-11ea-8ab7-625f0199d9d7.jpg)
+    ![papapc_intro_new](https://user-images.githubusercontent.com/39116699/78457674-ef71f500-76e6-11ea-88a3-ab0ae1be4e76.jpg)![phone_1_click](https://user-images.githubusercontent.com/39116699/78457675-f1d44f00-76e6-11ea-95a3-cace47891252.png)![scan](https://user-images.githubusercontent.com/39116699/78457678-f4cf3f80-76e6-11ea-8ab7-625f0199d9d7.jpg)
 
 3. PC logout or screen lock  
     -. press windows key + l key  
