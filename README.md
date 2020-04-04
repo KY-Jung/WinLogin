@@ -15,7 +15,8 @@ Windows Login with SmartPhone [web page] [(https://www.gainsys.kr/index.html)].
 
 ## Step
 1. Install program at PC  
-    -. download NFCCP_Setup_v1.0.6.exe  
+    -. download NFCCP_Setup_v1.0.6.exe
+    ![download_link_edit](https://user-images.githubusercontent.com/39116699/78457619-8ab69a80-76e6-11ea-9755-36a1bb036aaf.png)
     -. click and install  
 2. Connect web page with Android SmartPhone  
     -. connect to web page [(https://www.gainsys.kr)]  
