@@ -5,12 +5,12 @@ Windows Login with SmartPhone
 
 
 ## Use case  
-case #1. Approve PC  
+Case #1. Approve PC  
     -. Somebody wants to use my PC.  
     -. I don't want to show my password to anybody.  
     -. And I need to restrict the time of PC use.  
     
-case #2. One-Time Login  
+Case #2. One-Time Login  
     -. I just want to login Windows without typing password.  
     -. During off-day, my co-worker calls me to open my PC.  
 
@@ -70,7 +70,7 @@ case #2. One-Time Login
 8. Windows login complete  
     ![winlogin_end](https://user-images.githubusercontent.com/39116699/78457813-ecc3cf80-76e7-11ea-9842-13f41d0bb7a8.png)
 
-## this program is made with
+## This program is made with
 1. instascan : QR web scan
     https://github.com/schmich/instascan
 
