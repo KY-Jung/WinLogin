@@ -2,15 +2,31 @@
 Windows Login with SmartPhone [web page] [(https://www.gainsys.kr/index.html)].
 
 
+
+## Use case  
+case #1. Approve PC  
+    -. Somebody wants to use my PC.
+    -. I don't want to show my password to anybody.
+    -. And I need to restrict the time of PC use.
+    
+case #2. One-Time Login  
+    -. I just want to login Windows without typing password.
+    -. During off-day, my co-worker calls me to open my PC.
+
+
 ## Working environments  
 1. PC  
-    -. Windows 10 64bit, Windows 8.1 64bit
+    -. Windows 10 64bit, Windows 8.1 64bit  
+    
 2. SmartPhone  
     -. Galaxy s10e : Android 9  
     -. Galaxy A3(2016) : Android 7.0  
+    
 3. Browser
     -. Chrome : version 76  
-* iOS-Chrome is not supported
+    
+* iOS-Chrome is not supported  
+
 
 
 ## Step
