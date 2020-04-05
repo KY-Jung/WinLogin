@@ -6,13 +6,13 @@ Windows Login with SmartPhone
 
 ## Use case  
 case #1. Approve PC  
-    -. Somebody wants to use my PC.
-    -. I don't want to show my password to anybody.
-    -. And I need to restrict the time of PC use.
+    -. Somebody wants to use my PC.  
+    -. I don't want to show my password to anybody.  
+    -. And I need to restrict the time of PC use.  
     
 case #2. One-Time Login  
-    -. I just want to login Windows without typing password.
-    -. During off-day, my co-worker calls me to open my PC.
+    -. I just want to login Windows without typing password.  
+    -. During off-day, my co-worker calls me to open my PC.  
 
 
 ## Working environments  
