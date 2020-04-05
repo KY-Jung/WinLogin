@@ -1,6 +1,6 @@
 # WinLogin
 Windows Login with SmartPhone  
-[web page] [https://www.gainsys.kr/index.html].
+[Web page] [https://www.gainsys.kr/index.html].
 
 
 
