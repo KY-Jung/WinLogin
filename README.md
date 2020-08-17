@@ -50,7 +50,7 @@ Case #2. One-Time Login
 4. Validate Windows account  
     -. click ">>> Click to regist <<<" link at lock screen  
     -. input ID and Password  
-    -. selct "SmartPhone QR" at combobox
+    -. selct "SmartPhone QR" at combobox  
     -. press enter key  
     ![regist_2](https://user-images.githubusercontent.com/39116699/90389906-5bb52a00-e0c5-11ea-8954-3a255f03a875.png)
     
