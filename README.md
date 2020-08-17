@@ -50,8 +50,8 @@ Case #2. One-Time Login
 4. Validate Windows account  
     -. click ">>> Click to regist <<<" link at lock screen  
     -. input ID and Password  
+    -. selct "SmartPhone QR" at combobox
     -. press enter key  
-    ![winlogin_regist](https://user-images.githubusercontent.com/39116699/78457781-a7070700-76e7-11ea-953e-cc147c551935.png)
     ![regist](https://user-images.githubusercontent.com/39116699/90389091-e006ad80-e0c3-11ea-9262-8d6dd683bb40.png)
     
 5. Regist PC with QR scan  
