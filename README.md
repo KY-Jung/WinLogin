@@ -52,7 +52,7 @@ Case #2. One-Time Login
     -. input ID and Password  
     -. selct "SmartPhone QR" at combobox
     -. press enter key  
-    ![regist](https://user-images.githubusercontent.com/39116699/90389091-e006ad80-e0c3-11ea-9262-8d6dd683bb40.png)
+    ![regist_2](https://user-images.githubusercontent.com/39116699/90389906-5bb52a00-e0c5-11ea-8954-3a255f03a875.png)
     
 5. Regist PC with QR scan  
     -. scan QR code with SmartPhone  
